@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/gestion/PaginaInicio/static/css/main.631ea3ee.css",
-    "main.js": "/gestion/PaginaInicio/static/js/main.ad018905.js",
-    "static/media/logoSAMIC.png": "/gestion/PaginaInicio/static/media/logoSAMIC.a6fff440ff0516de3a63.png",
-    "index.html": "/gestion/PaginaInicio/index.html",
-    "main.631ea3ee.css.map": "/gestion/PaginaInicio/static/css/main.631ea3ee.css.map",
-    "main.ad018905.js.map": "/gestion/PaginaInicio/static/js/main.ad018905.js.map"
+    "main.css": "/gestion/static/css/main.631ea3ee.css",
+    "main.js": "/gestion/static/js/main.5a157d40.js",
+    "static/media/logoSAMIC.png": "/gestion/static/media/logoSAMIC.a6fff440ff0516de3a63.png",
+    "index.html": "/gestion/index.html",
+    "main.631ea3ee.css.map": "/gestion/static/css/main.631ea3ee.css.map",
+    "main.5a157d40.js.map": "/gestion/static/js/main.5a157d40.js.map"
   },
   "entrypoints": [
     "static/css/main.631ea3ee.css",
-    "static/js/main.ad018905.js"
+    "static/js/main.5a157d40.js"
   ]
 }
