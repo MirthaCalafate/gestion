@@ -3,7 +3,7 @@
     {
       "apellido": "Gay",
       "nombre": "Mirtha",
-      "celular": "",
+      "celular": "123",
       "sector": "Auditoria",
       "interno": "3012",
       "id": 11
@@ -117,37 +117,37 @@
     {
       "especialidad": "Psicologia Adulto",
       "texto": "Son sin pedido médico, los dias que indica el calendario",
-      "id":"1"
+      "id": "1"
     },
     {
       "especialidad": "Psicologia Infantil",
       "texto": "Los turnos se otorgan solo con el pedido médico. La admición se anota en los días que indica el calendario",
-      "id":"2"
+      "id": "2"
     },
     {
       "especialidad": "Psiquiatría Adulto",
       "texto": "No hace falta pedido médico, salvo que sea derivado",
-      "id":"3"
+      "id": "3"
     },
     {
       "especialidad": "Psiquiatría Infantil",
       "texto": "Los turnos se otorgan solo con el pedido médico",
-      "id":"4"
+      "id": "4"
     },
     {
       "especialidad": "Cardiología",
       "texto": "Electrocardiograma: 10 minutos. Ecocardiograma Doppler: 30 minutos",
-      "id":"5"
+      "id": "5"
     },
     {
       "especialidad": "Kinesiologia",
       "texto": "Los turnos son cargados por los agentes de turnos en 10 sesiones con pedido médico. Se da prioridad a los pacientes post quirúrgicos",
-      "id":"6"
+      "id": "6"
     },
     {
       "especialidad": "Traumatologia",
       "texto": "Turnos de control: lo solicita el médico. Turnos predatados: se dan en turnos por especialidad.",
-      "id":"7"
+      "id": "7"
     }
   ],
   "licencias": [
@@ -162,7 +162,8 @@
       "nombre": "Callejas",
       "desde": "03/02/2023",
       "hasta": "23/02/2023"
-    }, {
+    },
+    {
       "id": "3",
       "nombre": "Colombo",
       "desde": "03/01/2023",
@@ -185,7 +186,8 @@
       "nombre": "Rodriguez",
       "desde": "03/02/2023",
       "hasta": "23/02/2023"
-    }, {
+    },
+    {
       "id": "7",
       "nombre": "Lucero",
       "desde": "03/01/2023",
