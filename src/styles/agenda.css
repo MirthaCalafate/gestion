@@ -1,0 +1,6 @@
+.claro {
+    background-color: var(--colorStripe1);
+}
+.oscuro{
+    background-color: var(--colorStripe2);
+}

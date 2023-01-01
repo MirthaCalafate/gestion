@@ -1,0 +1,201 @@
+{
+  "agenda": [
+    {
+      "apellido": "Gay",
+      "nombre": "Mirtha",
+      "celular": "",
+      "sector": "Auditoria",
+      "interno": "3012",
+      "id": 11
+    },
+    {
+      "apellido": "Mesa de entradas",
+      "nombre": "",
+      "celular": "",
+      "sector": "Guardia",
+      "interno": "2029 / 2301",
+      "id": 12
+    },
+    {
+      "apellido": "Blanco",
+      "nombre": "Gustavo",
+      "celular": "",
+      "sector": "Auditoria",
+      "interno": "3012",
+      "id": 13
+    },
+    {
+      "apellido": "Call Center",
+      "nombre": "Turnos",
+      "celular": "",
+      "sector": "Gestion",
+      "interno": "2249 / 2250",
+      "id": 14
+    },
+    {
+      "apellido": "Imagenes",
+      "nombre": "",
+      "celular": "",
+      "sector": "Imagenes",
+      "interno": "2255",
+      "id": 15
+    },
+    {
+      "apellido": "Prensa",
+      "nombre": "",
+      "celular": "",
+      "sector": "Prensa",
+      "interno": "3010",
+      "id": 16
+    },
+    {
+      "apellido": "",
+      "nombre": "Paula",
+      "celular": "",
+      "sector": "Docencia",
+      "interno": "4006",
+      "id": 17
+    },
+    {
+      "apellido": "Internacion Neo",
+      "nombre": "",
+      "celular": "",
+      "sector": "Neonatologia",
+      "interno": "3178 / 3179",
+      "id": 18
+    },
+    {
+      "apellido": "Gulino ",
+      "nombre": "Rosana",
+      "celular": "",
+      "sector": "Farmacia",
+      "interno": "1318",
+      "id": 19
+    },
+    {
+      "apellido": "Farmacia PB",
+      "nombre": "",
+      "celular": "",
+      "sector": "Farmacia",
+      "interno": "2233",
+      "id": 20
+    },
+    {
+      "apellido": "Laboratorio",
+      "nombre": "",
+      "celular": "",
+      "sector": "Laboratorio",
+      "interno": "2240",
+      "id": 21
+    },
+    {
+      "apellido": "Consejo",
+      "nombre": "",
+      "celular": "",
+      "sector": "COnsejo",
+      "interno": "3037",
+      "id": 22
+    },
+    {
+      "apellido": "Gestion",
+      "nombre": "",
+      "celular": "",
+      "sector": "Gestion",
+      "interno": "2259",
+      "id": 23
+    },
+    {
+      "apellido": "Secretaria de Dirección",
+      "nombre": "",
+      "celular": "",
+      "sector": "Dirección",
+      "interno": "4008",
+      "id": 24
+    }
+  ],
+  "turnosEspecialidad": [
+    {
+      "especialidad": "Psicologia Adulto",
+      "texto": "Son sin pedido médico, los dias que indica el calendario",
+      "id":"1"
+    },
+    {
+      "especialidad": "Psicologia Infantil",
+      "texto": "Los turnos se otorgan solo con el pedido médico. La admición se anota en los días que indica el calendario",
+      "id":"2"
+    },
+    {
+      "especialidad": "Psiquiatría Adulto",
+      "texto": "No hace falta pedido médico, salvo que sea derivado",
+      "id":"3"
+    },
+    {
+      "especialidad": "Psiquiatría Infantil",
+      "texto": "Los turnos se otorgan solo con el pedido médico",
+      "id":"4"
+    },
+    {
+      "especialidad": "Cardiología",
+      "texto": "Electrocardiograma: 10 minutos. Ecocardiograma Doppler: 30 minutos",
+      "id":"5"
+    },
+    {
+      "especialidad": "Kinesiologia",
+      "texto": "Los turnos son cargados por los agentes de turnos en 10 sesiones con pedido médico. Se da prioridad a los pacientes post quirúrgicos",
+      "id":"6"
+    },
+    {
+      "especialidad": "Traumatologia",
+      "texto": "Turnos de control: lo solicita el médico. Turnos predatados: se dan en turnos por especialidad.",
+      "id":"7"
+    }
+  ],
+  "licencias": [
+    {
+      "id": "1",
+      "nombre": "Matera",
+      "desde": "10/12/2022",
+      "hasta": "20/12/2022"
+    },
+    {
+      "id": "2",
+      "nombre": "Callejas",
+      "desde": "03/02/2023",
+      "hasta": "23/02/2023"
+    }, {
+      "id": "3",
+      "nombre": "Colombo",
+      "desde": "03/01/2023",
+      "hasta": "02/02/2023"
+    },
+    {
+      "id": "4",
+      "nombre": "Pani",
+      "desde": "15/02/2023",
+      "hasta": "10/03/2023"
+    },
+    {
+      "id": "5",
+      "nombre": "Villagomez",
+      "desde": "10/12/2022",
+      "hasta": "20/12/2022"
+    },
+    {
+      "id": "6",
+      "nombre": "Rodriguez",
+      "desde": "03/02/2023",
+      "hasta": "23/02/2023"
+    }, {
+      "id": "7",
+      "nombre": "Lucero",
+      "desde": "03/01/2023",
+      "hasta": "02/02/2023"
+    },
+    {
+      "id": "8",
+      "nombre": "Actis",
+      "desde": "15/02/2023",
+      "hasta": "10/03/2023"
+    }
+  ]
+}

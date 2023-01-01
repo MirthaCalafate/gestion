@@ -1,0 +1,68 @@
+.tab-content {
+  margin-top: 20px;
+  /* background-color: rgb(215, 213, 213); */
+}
+.inputBusqueda {
+  font-size: 25px;
+}
+
+/* nav,
+.nav-tabs > li > a */ 
+.li-a {
+  color: var(--colorTema);
+  font-weight: 400;
+  text-decoration-line: none;
+  position: relative;
+  display: block;
+  border-radius: 40px 10px;
+  padding-top: 20px;
+  padding-right: 15px;
+  padding-bottom: 21px;
+  padding-left: 15px;
+}
+
+nav,
+.nav-tabs > li.active a,
+nav,
+.nav-tabs > li.active a:hover,
+nav,
+.nav-tabs > li.active a:focus {
+  background-color: var(--colorTema);
+  color: #fff;
+  text-decoration-line: none;
+}
+
+li.active a:before {
+  border-color: var(--colorTema) transparent transparent transparent;
+  border-style: solid;
+  border-width: 15px 10px 0px 10px;
+  content: "";
+  display: block;
+  left: calc(50% - 15px);
+  position: absolute;
+  width: 0px;
+  top: 70px;
+  z-index: 10;
+}
+
+
+/* .nav-content ul li a{
+  margin: 10px;
+  padding: 15px;
+  font-size: 25px;
+}
+.nav-li{
+  border-bottom: 1px solid #555;
+}
+.nav-li a .active {
+  background-color: var(--bgColor);
+  color: white;
+}
+.nav-li a:hover:not(.active) {
+  background-color: grey;
+  color: white;
+}
+.nav-li a:hover:active {
+  background-color: var(--bgColor);
+  color: white;
+} */

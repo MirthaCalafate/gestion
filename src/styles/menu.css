@@ -1,0 +1,33 @@
+.navItem {
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 23px;
+}
+.navItem .active {
+  text-transform: uppercase;
+  font-weight: 600;
+  color: white!important;
+} 
+.navBrand{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navBrand p{
+  font-size: 20px;
+  color: rgb(211, 211, 211);
+}
+
+/* L O G O */
+.imgNavLogo {
+  width: 40px;
+}
+
+/* CARRITO */
+
+.imgCarrito {
+  width: 25px;
+}
+.botonCarrito{
+  background-color: transparent;
+}

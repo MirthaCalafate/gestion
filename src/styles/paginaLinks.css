@@ -1,0 +1,13 @@
+a {
+    font-size: 20px;
+    text-decoration: none;
+  }
+
+/* color de link sin acceder */
+
+/*   a:hover{
+    font-size: 25px;
+  }
+  a:active{
+    color: var(--colorTema);
+  } */
